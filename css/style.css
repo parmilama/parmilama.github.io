@@ -244,7 +244,8 @@ a:focus {
 /*******************************/
 .hero {
     position: relative;
-    width: 100%;
+    width: 80%;
+    height: 80%;
     margin-bottom: 45px;
     padding: 120px 0 0 0;
     overflow: hidden;
@@ -262,7 +263,6 @@ a:focus {
     position: relative;
     text-align: right;
     padding-right: 75px;
-    padding-botton: 25px;
 }
 
 .hero .hero-image img {
